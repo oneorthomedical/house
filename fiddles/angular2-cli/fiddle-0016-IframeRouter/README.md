@@ -4,7 +4,7 @@ fiddle-0016-IframeRouter
 
 ### Title
 
-fiddle-0016-IframeRouter
+Iframe Router
 
 
 ### Creation Date
@@ -19,12 +19,12 @@ Chicago, IL
 
 ### Issue
 
-[Issue {{issueNumber}}](https://github.com/bradyhouse/house/issues/{{issueNumber}})
+[Issue 216](https://github.com/bradyhouse/house/issues/216)
 
 
 ### Description
 
-Another simple Angular 2 fiddle.
+I need a dashboard that uses an iframe to display its content-- aka the target of a given route.  See [Issue 215](https://github.com/bradyhouse/house/issues/215).
 
 
 ### Published Version Link

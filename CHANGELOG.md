@@ -1696,4 +1696,4 @@ Alternately, the _Daily Diary of my Programming Dreams_.
 
 * **Angular2 CLI**
 
-* Added [fiddles/angular2-cli/fiddle-0016-IframeRouter](fiddles/angular2-cli/fiddle-0016-IframeRouter)
+  1.  Added [fiddles/angular2-cli/fiddle-0016-IframeRouter](fiddles/angular2-cli/fiddle-0016-IframeRouter)

@@ -16,6 +16,7 @@
 function configNg() {
   groupLog "configNg";
   ng set --global warnings.versionMismatch=false;
+  ng set --global packageManager=yarn;
 }
 
 function uninstallNg() {

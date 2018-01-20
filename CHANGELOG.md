@@ -1684,3 +1684,4 @@ Alternately, the _Daily Diary of my Programming Dreams_.
 * **JQuery**
 
   1.  Added [fiddles/jquery/fiddle-0062-AlphaVantageAjax](fiddles/jquery/fiddle-0062-AlphaVantageAjax) ~ [Issue #204](https://github.com/bradyhouse/house/issues/204) 
+* Added [fiddles/angular2-cli/fiddle-0016-IframeRouter](fiddles/angular2-cli/fiddle-0016-IframeRouter)

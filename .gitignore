@@ -36,7 +36,6 @@ typings
 *.dmg
 
 /tools/**/*.js
-dist
 dev
 docs
 lib

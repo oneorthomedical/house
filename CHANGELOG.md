@@ -1684,4 +1684,16 @@ Alternately, the _Daily Diary of my Programming Dreams_.
 * **JQuery**
 
   1.  Added [fiddles/jquery/fiddle-0062-AlphaVantageAjax](fiddles/jquery/fiddle-0062-AlphaVantageAjax) ~ [Issue #204](https://github.com/bradyhouse/house/issues/204) 
+
+
+### [FRONTEND-POC](https://github.com/bradyhouse/house/issues/215)
+
+* **fiddle.sh**
+
+  1.  Added NG_ENABLE_ROUTING flag
+    * Reflected changes:
+      1. Updated [scripts/bin/angular2-cli/.ngrc](scripts/bin/angular2-cli/.ngrc)
+
+* **Angular2 CLI**
+
 * Added [fiddles/angular2-cli/fiddle-0016-IframeRouter](fiddles/angular2-cli/fiddle-0016-IframeRouter)

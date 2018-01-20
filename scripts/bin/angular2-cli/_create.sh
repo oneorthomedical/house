@@ -55,7 +55,13 @@ function ngCreate() {
             appName="fiddle";
         fi
 
-        ng new ${appName} --directory ${fiddle} || exit 2;
+        if [[ "${NG_ENABLE_ROUTING}" == "true" ]]
+        then
+            ng new ${appName} --directory ${fiddle} --routing true || exit 2;
+        else
+            ng new ${appName} --directory ${fiddle} || exit 2;
+        fi
+
         cd ${fiddle};
 
         if [[ -e .gitignore ]]

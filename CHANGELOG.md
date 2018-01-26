@@ -1083,7 +1083,6 @@ Alternately, the _Daily Diary of my Programming Dreams_.
 
 * **Aurelia**
     1.  Added [fiddles/aurelia/fiddle-0100-EmptyTemplate](fiddles/aurelia/fiddle-0100-EmptyTemplate)
-    2.  Started [fiddles/aurelia/fiddle-0037-ModalPopUp](fiddles/aurelia/fiddle-0037-ModalPopUp)
     3.  Started [fiddles/aurelia/fiddle-0001-Component](fiddles/aurelia/fiddle-0001-Component)
     4.  Added dependency (submodule) to [Patrick Walter's Aurelia Examples](https://github.com/PWKad/aurelia-samples)
     5.  Added dependency (submodule) to [Marcel Hoyer's ToDoMVC App](https://github.com/mhoyer/todomvc-aurelia)

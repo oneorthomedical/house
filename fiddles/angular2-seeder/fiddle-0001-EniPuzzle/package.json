@@ -183,7 +183,7 @@
     "@ngx-translate/http-loader": "0.0.3",
     "angulartics2": "^1.6.3",
     "bootstrap": "^3.3.7",
-    "core-js": "^2.4.1",
+    "core-js": "^2.6.11",
     "es-module-loader": "^1.0.0",
     "immutable": "^3.8.1",
     "intl": "^1.2.5",
